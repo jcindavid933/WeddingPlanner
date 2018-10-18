@@ -1,0 +1,10 @@
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/bin/Debug/netcoreapp2.0/weddingplanner.deps.json
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/bin/Debug/netcoreapp2.0/weddingplanner.runtimeconfig.json
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/bin/Debug/netcoreapp2.0/weddingplanner.runtimeconfig.dev.json
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/bin/Debug/netcoreapp2.0/weddingplanner.dll
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/bin/Debug/netcoreapp2.0/weddingplanner.pdb
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/obj/Debug/netcoreapp2.0/weddingplanner.csproj.CoreCompileInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/obj/Debug/netcoreapp2.0/weddingplanner.AssemblyInfoInputs.cache
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/obj/Debug/netcoreapp2.0/weddingplanner.AssemblyInfo.cs
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/obj/Debug/netcoreapp2.0/weddingplanner.dll
+/Users/david/Desktop/Coding Dojo/csharp/weddingplanner/obj/Debug/netcoreapp2.0/weddingplanner.pdb

@@ -1,0 +1,44 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.container{
+    width: 100%;
+    height: auto;
+}
+.left_side{
+    width: 40%;
+    height: auto;
+    display: inline-block;
+}
+.right_side{
+    width: 40%;
+    height: auto;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 5%;
+}
+a{
+    text-decoration: underline;
+}
+#logout1{
+    display: inline-block;
+    margin-left: 30%;
+}
+h1{
+    display: inline-block;
+}
+#button1{
+    margin-left: 85%;
+}
+table{
+    border: 3px solid black;
+}
+#logout2{
+    display: inline-block;
+    margin-left: 40%;
+    margin-right: 3%;
+}
+#button2{
+    margin-left: 92%;
+}
